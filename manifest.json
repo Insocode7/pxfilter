@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "Filter Modifer",
+  "version": "1.0",
+  "description": "Increases the filter limit to 50 pixels",
+  "permissions": [ "declarativeNetRequest" ],
+  "host_permissions": [ "*://notpixel.org/*" ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": [ "*://notpixel.org/*" ],
+      "js": [ "content-script.js" ]
+    }
+  ]
+}
