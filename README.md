@@ -1,13 +1,14 @@
-# Filter Modifer for Web-version of Not Pixel (notpixel.org)
-An extension that increases the filtering limit to 50 pixels
-
-<h1 align="center">📌 How to Install Extension in Chrome, Edge, Brave, Opera</h1>
+# 🎨 Filter Modifier for Not Pixel (notpixel.org)
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" alt="Chrome">
-  <img src="https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white" alt="Edge">
-  <img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white" alt="Brave">
-  <img src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white" alt="Opera">
+  <strong>Browser extension that increases the pixel filtering limit to 50 pixels</strong>
+  
+  <div>
+    <img src="https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" alt="Chrome">
+    <img src="https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white" alt="Edge">
+    <img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white" alt="Brave">
+    <img src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white" alt="Opera">
+  </div>
 </div>
 
 ## 🚀 Installation Guide
