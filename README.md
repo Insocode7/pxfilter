@@ -14,8 +14,8 @@
 ## 🚀 Installation Guide
 
 ### 1️⃣ Download the extension archive
-- Get the ZIP file with the extension (e.g., `extension.zip`)
-- Unzip it to a convenient folder (e.g., `C:\extensions\my-extension`)
+- Get the ZIP file with the extension (e.g., `pxfilter-main.zip`)
+- Unzip it to a convenient folder (e.g., `C:\extensions\pxfilter`)
 
 ### 2️⃣ Enable Developer Mode
 1. Open your browser and go to:
