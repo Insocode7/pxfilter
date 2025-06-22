@@ -1,4 +1,4 @@
-# pxfilter
+# Filter Modifer for Web-version of Not Pixel (notpixel.org)
 An extension that increases the filtering limit to 50 pixels
 
 <h1 align="center">📌 How to Install Extension in Chrome, Edge, Brave, Opera</h1>
